@@ -1,0 +1,23 @@
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales o de entorno
+*.log
+*.tmp
+
+# Node.js (si usás npm más adelante)
+node_modules/
+
+# Archivos de Python (si usás scripts auxiliares)
+__pycache__/
+*.pyc
+
+# Archivos de VSCode u otros editores
+.vscode/
+.idea/
+
+# Archivos de pruebas o reportes
+coverage/
+
